@@ -1,10 +1,11 @@
 ##  **Running Tracker App** ##
-
-
-## Overview
 - The Running Tracker App is a **multi-module** native Android application built with **Kotlin** and **Jetpack Compose** to demonstrate **industry-level** Android development practices. This app is designed to track running activities, offering features like real-time route mapping, performance analytics, data synchronization across devices, and offline functionality. It leverages modern Android development techniques and libraries to ensure a **scalable**, **maintainable**, and **testability**. 
 
-- With this app, you can effortlessly track your runs and monitor key statistics such as distance, duration, pace, heart rate, and more. Your run data is securely saved to your account, allowing you to easily access it by logging in from any device. Additionally, you have the flexibility to delete runs, and analyze your performance with detailed graphical analytics.
+## Overview
+
+- Track your runs and monitor key statistics such as distance, duration, pace, heart rate, and more. 
+- Access yout running data by logging in from any device anywhere.
+- Analyze your performance with detailed graphical analytics.
 
 
 ## Features
