@@ -45,8 +45,7 @@ Implementation of always-on mode with ambient display.
 
 
 ## Getting Started
-- Clone the repo:
-git clone https://github.com/ahmed-guedmioui/Running-Tracker-App.git
+- Clone the repo: git clone https://github.com/ahmed-guedmioui/Running-Tracker-App.git
 - Open the project in Android Studio.
 - Build the project and run it on your preferred device or emulator.
 
