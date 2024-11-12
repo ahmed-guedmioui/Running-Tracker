@@ -21,14 +21,27 @@ Modern UI implementation using Jetpack Compose, tailored for industry-scale proj
 Secure and reliable OAuth authentication system integrated for user management.
 - **Offline-First Development:**
 Robust offline capabilities using Room for local storage and Ktor for network operations.
-- **Dynamic Feature Modules:**
-Modular design with dynamic feature modules, allowing on-demand feature loading.
-- **Google Maps Integration:**
-Real-time route mapping using the Google Maps SDK.
+- **Maps Integration:**
+Real-time route mapping, pace and distance highlighting using the Google Maps SDK.
+- **Graphical Analytics:** Provides detailed performance insights through visually rich graphs and charts.
 - **Wear OS Support:**
 Comprehensive Wear OS support, including theming, exercise tracking, and health data management.
 Features like discovering paired devices and syncing data between the watch and phone.
 Implementation of always-on mode with ambient display.
+
+## Tech Stack
+
+- **Kotlin:** The primary language for Android development.
+- **Jetpack Compose:** For creating responsive, dynamic, and visually appealing UIs.
+- **Room:** Local database solution for robust offline data storage and seamless offline-first functionality.
+- **Android Ktor:** For network operations and synchronization of running data across devices.
+- **Google Maps SDK:** Enables route mapping with a visual path for pace and ditance.
+- **Gradle:** Advanced setup utilizing version catalogs, convention plugins, and multi-module architecture for optimized build performance and code separation.
+- **OAuth:** Implements secure and reliable authentication for user management across devices.
+- **Wear OS SDK:** Comprehensive support for Wear OS devices, enabling exercise tracking, health data integration, and real-time syncing between watch and phone.
+- **Dynamic Feature Modules:** Modular design to load features on demand, improving performance and flexibility.
+- **Ktor:** A custom backend ([Running Tracker API](https://github.com/ahmed-guedmioui/Running-Tracker-API)) that manages user authentication and fetches data from a remote database.
+- **MongoDB:** A scalable and flexible remote database solution, ensuring secure storage and real-time access to user data across devices.
 
 
 ## Getting Started
