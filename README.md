@@ -37,8 +37,6 @@ Implementation of always-on mode with ambient display.
 - **Android Ktor:** For network operations and synchronization of running data across devices.
 - **Google Maps SDK:** Enables route mapping with a visual path for pace and ditance.
 - **Gradle:** Advanced setup utilizing version catalogs, convention plugins, and multi-module architecture for optimized build performance and code separation.
-- **OAuth:** Implements secure and reliable authentication for user management across devices.
-- **Wear OS SDK:** Comprehensive support for Wear OS devices, enabling exercise tracking, health data integration, and real-time syncing between watch and phone.
 - **Dynamic Feature Modules:** Modular design to load features on demand, improving performance and flexibility.
 - **Ktor:** A custom backend ([Running Tracker Backend](https://github.com/ahmed-guedmioui/Running-Tracker-API)) that manages user authentication and fetches data from a remote database.
 - **MongoDB:** A scalable and flexible remote database solution, ensuring secure storage and real-time access to user data across devices.
