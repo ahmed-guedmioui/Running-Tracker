@@ -14,7 +14,7 @@
 - **Project Architecture:**
 A strong foundation by incorporating the principles of software architecture to ensure a scalable, readable and maintainable app, with the clean architecture and MVI design pattern
 - **Gradle & Multi-Module Architecture:**
-Using version catalogues and convention plugins or an advenced and scalable Gradle setup. And enhancing code separation and build times with the implementation of the Multi-Module Architecture
+Using version catalogues and convention plugins or an advanced and scalable Gradle setup. And enhancing code separation and build times with the implementation of the Multi-Module Architecture
 - **Jetpack Compose UI:**
 Modern UI implementation using Jetpack Compose, tailored for industry-scale projects.
 - **Authentication:**
