@@ -3,18 +3,18 @@
 
 ## Overview
 
-- Track your runs and monitor key statistics such as distance, duration, pace, heart rate, and more. 
-- Access yout running data by logging in from any device anywhere.
+- Safe authentication to access your running data from any device anywhere.
+- Track your runs with a dynamic map view that highlights your route showing your pace at a glance—slow, medium, or fast.
+- Monitor key statistics such as speed, distance, duration, pace, heart rate, and more.
 - Analyze your performance with detailed graphical analytics.
 
 
 ## Features
-- **Project Planning & Architecture:**
-Thoughtful planning and architectural design for scalable and maintainable app development.
-Incorporates the fundamentals of software architecture, ensuring a solid foundation.
+
+- **Project Architecture:**
+A strong foundation by incorporating the principles of software architecture to ensure a scalable, readable and maintainable app, with the clean architecture and MVI design pattern
 - **Gradle & Multi-Module Architecture:**
-Utilizes advanced Gradle configurations, including convention plugins and version catalogs.
-Implements a multi-module architecture to improve build times and code separation.
+Using version catalogues and convention plugins or an advenced and scalable Gradle setup. And enhancing code separation and build times with the implementation of the Multi-Module Architecture
 - **Jetpack Compose UI:**
 Modern UI implementation using Jetpack Compose, tailored for industry-scale projects.
 - **Authentication:**
