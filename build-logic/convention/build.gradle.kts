@@ -23,6 +23,10 @@ gradlePlugin {
             id = "running_tracker_app.android.application.compose"
             implementationClass = "AndroidApplicationComposeConventionPlugin"
         }
+        register("androidApplicationWearCompose") {
+            id = "running_tracker_app.android.application.wear.compose"
+            implementationClass = "AndroidApplicationWearComposeConventionPlugin"
+        }
         register("AndroidLibrary") {
             id = "running_tracker_app.android.library"
             implementationClass = "AndroidLibraryConventionPlugin"
@@ -39,6 +43,10 @@ gradlePlugin {
             id = "running_tracker_app.android.room"
             implementationClass = "AndroidRoomConventionPlugin"
         }
+        register("AndroidDynamicFeature") {
+            id = "running_tracker_app.android.dynamic.feature"
+            implementationClass = "AndroidDynamicFeatureConventionPlugin"
+        }
         register("jvmLibrary") {
             id = "running_tracker_app.jvm.library"
             implementationClass = "JvmLibraryConventionPlugin"
@@ -46,6 +54,14 @@ gradlePlugin {
         register("jvmKtor") {
             id = "running_tracker_app.jvm.ktor"
             implementationClass = "JvmKtorConventionPlugin"
+        }
+        register("jvmJunit5") {
+            id = "running_tracker_app.jvm.junit5"
+            implementationClass = "JvmJUnit5ConventionPlugin"
+        }
+        register("androidJunit5") {
+            id = "running_tracker_app.android.junit5"
+            implementationClass = "AndroidJUnit5ConventionPlugin"
         }
     }
 }

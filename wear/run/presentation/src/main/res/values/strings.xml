@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="connect_your_phone">This app requires RunningTracker app to be installed in your phone and connected.</string>
+    <string name="heart_rate">Heart Rate</string>
+    <string name="unsupported">Unsupported</string>
+    <string name="distance">Distance</string>
+    <string name="open_active_run_screen">Please open the new run screen on your phone to get started.</string>
+    <string name="pause_run">Pause run</string>
+    <string name="start_run">Start Run</string>
+    <string name="finish_run">Finish run</string>
+    <string name="error_ongoing_exercise">There is already an ongoing exercise.</string>
+    <string name="error_exercise_already_ended">The exercise has already ended.</string>
+</resources>

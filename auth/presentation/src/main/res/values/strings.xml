@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Running Tracker</string>
+    <string name="welcome_to_running_tracker">Welcome to Running Tracker</string>
+    <string name="running_tracker_description">Track your running progress, set your goals and achieve your fitness.</string>
+    <string name="sign_up">Sign up</string>
+    <string name="sing_in">Sing in</string>
+    <string name="create_account">Create Account</string>
+    <string name="already_have_an_account">Already have an account?</string>
+    <string name="login">Login</string>
+    <string name="example_email">example@test.com</string>
+    <string name="email">Email</string>
+    <string name="must_be_a_valid_email">Must be a valid email</string>
+    <string name="password">Password</string>
+    <string name="at_least_x_characters">At least %d characters</string>
+    <string name="at_least_one_number">At least one number</string>
+    <string name="contains_a_lowercase_letter">Contains a lowercase letter</string>
+    <string name="contains_a_uppercase_letter">Contains a uppercase letter</string>
+    <string name="register">Register</string>
+    <string name="error_email_exists">This email is already taken.</string>
+    <string name="registration_successful">Registration Successful, you can login now!</string>
+    <string name="hi_there">Hi there</string>
+    <string name="running_tracker_welcome_text">Welcome to your ultimate running companion! Track, analyze, and conquer your runs.</string>
+    <string name="don_t_have_na_account">Don\'t have na account?</string>
+    <string name="you_re_logged_in">You\'re logged in</string>
+</resources>
