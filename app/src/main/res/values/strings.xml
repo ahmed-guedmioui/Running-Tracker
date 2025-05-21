@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">Running Tracker App</string>
+    <string name="title_analytics_feature">Analytics</string>
+    <string name="couldn_t_load_analytics_feature">Couldn\'t load analytics feature</string>
+    <string name="couldn_t_install_analytics_feature">Couldn\'t install analytics feature, please try again later</string>
+    <string name="analytics_feature_is_installed">Analytics feature is installed ✅</string>
+    <string name="installing_module">Installing Module</string>
 </resources>
